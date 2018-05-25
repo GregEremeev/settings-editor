@@ -6,7 +6,7 @@
 
 #### Clone repository and install dependencies
 ```bash
-git clone https://github.com/Budulianin/settings-editor.git
+git clone https://github.com/gregeremeev/settings-editor.git
 cd settings-editor
 python3 -m venv .venv
 source .venv/bin/activate
