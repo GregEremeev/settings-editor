@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 
-REQUIREMENTS = ('Flask==0.12.2', 'Flask-Admin==1.5.3', 'Flask-BasicAuth==0.2.0')
+REQUIREMENTS = ('Flask==0.12.3', 'Flask-Admin==1.5.3', 'Flask-BasicAuth==0.2.0')
 
 
 setup(
